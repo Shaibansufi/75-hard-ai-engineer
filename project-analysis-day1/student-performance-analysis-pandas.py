@@ -71,7 +71,7 @@ minimum_percentage = new_df['percentage %'].min()
 print(minimum_percentage)
 
 # Who is the minimum scorer?
-minimum_scorer_row = new_df[new_df['percentage %']== minimum_percentage]
+minimum_scorer_row = new_df[new_df['percentage %'] == minimum_percentage]
 print(minimum_scorer_row)
 minimum_scorer_name = minimum_scorer_row['name']
 print(minimum_scorer_name)
@@ -132,7 +132,7 @@ print(low_attendance_students_name)
 result1 = new_df.groupby('study_hours')[['percentage %']].mean()
 print(result1)
 
-result2 = new_df.groupby('percentage %')[['attendance']].mean()
+result2 = new_df.groupby('attedance')[['percentage %']].mean()
 print(result2)
 
 
