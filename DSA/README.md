@@ -1,7 +1,3 @@
-Samajh gaya bhai 😄 tu sirf **clean, general README (no code)** chahta hai — ye le, directly copy-paste kar:
-
----
-
 ## 📘 DSA Practice – Array Problems
 
 ### 🧠 Overview
@@ -11,6 +7,7 @@ In this session, I practiced and understood three fundamental array-based proble
 * Two Sum
 * Contains Duplicates
 * Best Time to Buy and Sell Stock
+* Maximum Subarray (Kadane’s Algorithm)
 
 These problems helped strengthen my understanding of **hashing techniques and greedy algorithms**, which are commonly used in coding interviews.
 
@@ -39,6 +36,15 @@ These problems helped strengthen my understanding of **hashing techniques and gr
 * Learned **greedy approach** for maximizing profit
 * Tracked minimum value dynamically
 * Understood real-time decision making in a single pass
+
+---
+
+### 4. Maximum Subarray (Kadane’s Algorithm)
+
+* Learned how to optimize from brute force to **O(n)** solution
+* Understood the idea of **discarding negative prefix sums**
+* Practiced maintaining a running sum and global maximum
+* Gained insight into **greedy decision making at each step**
 
 ---
 
@@ -73,5 +79,3 @@ These problems helped strengthen my understanding of **hashing techniques and gr
 Consistency is key. Solving a few problems daily with clear understanding builds a strong foundation in Data Structures & Algorithms.
 
 ---
-
-
