@@ -135,3 +135,5 @@ Aspiring AI Engineer 🚀
 ✅ API Created
 ✅ Frontend Connected
 💣 **DAY 3 COMPLETE 😤🔥**
+
+<!-- uvicorn main:app --reload -->
